@@ -1,1 +1,1 @@
-This folder holds srping note pictures.
+This folder holds spring note pictures.
