@@ -1,7 +1,7 @@
 # PicBed
 
 ## Emojis
-People
+### People
 :bowtie:
 :smile:
 :simple_smile:
@@ -196,7 +196,7 @@ People
 :rage4:
 :suspect:
 :trollface:
-Nature
+### Nature
 :sunny:
 :umbrella:
 :cloud:
@@ -312,7 +312,7 @@ Nature
 :partly_sunny:
 :octocat:
 :squirrel:
-Objects
+### Objects
 :bamboo:
 :gift_heart:
 :dolls:
@@ -573,7 +573,7 @@ Objects
 :eggplant:
 :tomato:
 :corn:
-Places
+### Places
 :house:
 :house_with_garden:
 :school:
@@ -680,7 +680,7 @@ Places
 :gb:
 :uk:
 :de:
-Symbols
+### Symbols
 :one:
 :two:
 :three:
@@ -883,5 +883,5 @@ Symbols
 :small_red_triangle:
 :small_red_triangle_down:
 :shipit:
-Campfire also supports a few sounds
+### Campfire also supports a few sounds
 /play secret/play trombone/play crickets/play rimshot/play vuvuzela/play tmyk/play live/play drama/play yeah/play greatjob/play pushit/play nyan/play tada/play ohmy/play bueller/play ohyeah/play 56k/play dangerzone/play horn/play horror/play loggins/play yodel/play sax/play noooo/play heygirl/play inconceivable/play deeper/play whoomp/play clowntown/play what/play bezos/play trololo/play makeitso/play sexyback/play bell/play danielsan/play greyjoy/play story/play dadgummit/play rollout/play cottoneyejoe/play rumble/play guarantee/play unix/play letitgo/play wups/play flawless/play butts
