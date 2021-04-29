@@ -37,4 +37,7 @@ The picture will be shown like this :
 
 
 ## Thanks
-https://www.jsdelivr.com/
+
+<a href="https://www.jsdelivr.com"><img height="40" src="https://raw.githubusercontent.com/jsdelivr/jsdelivr-media/master/default/svg/jsdelivr-logo-horizontal.svg"></a>
+
+> Thanks jsDelivr for providing public CDN service.
