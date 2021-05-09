@@ -2,7 +2,7 @@
 
 Used to store my blog's pictures.
 
-My blog: https://lilittlecat.cn/
+My blog: https://lilittlecat.com/
 
 ## Backgrounds
 
