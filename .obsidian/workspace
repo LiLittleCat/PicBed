@@ -9,7 +9,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Excalidraw/synchronized.md"
+            "file": "Excalidraw/HashMap.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/synchronized.md",
+                "file": "Excalidraw/HashMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
   },
   "active": "e4c44642897bfd1a",
   "lastOpenFiles": [
+    "Excalidraw/HashMap.md",
     "Excalidraw/synchronized.md",
     "Excalidraw/synchronized.svg",
     "Excalidraw/How does HashMap work.svg",
@@ -95,7 +96,6 @@
     "images/spring-note/20200713144728.png",
     "Excalidraw/How does HashMap work.md",
     "Excalidraw/Drawing 2022-05-08 20.48.29.excalidraw.md",
-    "README.md",
-    "images/spring-note/README.md"
+    "README.md"
   ]
 }
