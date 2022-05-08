@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "62f0ce262252fc4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4c44642897bfd1a",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Excalidraw/synchronized.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2891525447dada7",
+    "type": "split",
+    "children": [
+      {
+        "id": "24de63500983b6d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dd6ad35c443c2c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2fb4a8da5f118dab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "21d52a0e10228102",
+    "type": "split",
+    "children": [
+      {
+        "id": "389e8db3bdd254c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f124418545aeb0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/synchronized.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e4c44642897bfd1a",
+  "lastOpenFiles": [
+    "Excalidraw/synchronized.md",
+    "Excalidraw/synchronized.svg",
+    "Excalidraw/How does HashMap work.svg",
+    "Excalidraw/How does HashMap work.md",
+    "README.md",
+    "images/spring-note/README.md",
+    "images/spring-note/20200713144728.png",
+    "images/favicon/butterfly/android-icon-144x144.png",
+    "images/favicon/butterfly/android-icon-48x48.png",
+    "images/favicon/butterfly/android-icon-36x36.png"
+  ]
+}
