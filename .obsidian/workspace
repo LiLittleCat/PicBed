@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e4c44642897bfd1a",
+        "id": "e81404a41788ad82",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "image",
           "state": {
-            "file": "Excalidraw/HashMap.md"
+            "file": "drawio/Lock-and-Condition.svg"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/HashMap.md",
+                "file": "drawio/Lock-and-Condition.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,17 +85,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e4c44642897bfd1a",
+  "active": "e81404a41788ad82",
   "lastOpenFiles": [
+    "drawio/Lock-and-Condition.svg",
+    "Excalidraw/How does HashMap work.md",
+    "Excalidraw/How does HashMap work.svg",
     "Excalidraw/HashMap.md",
     "Excalidraw/synchronized.md",
     "Excalidraw/synchronized.svg",
-    "Excalidraw/How does HashMap work.svg",
+    "images/spring-note/README.md",
+    "README.md",
     "images/favicon/butterfly/android-icon-72x72.png",
-    "images/favicon/butterfly/android-icon-36x36.png",
-    "images/spring-note/20200713144728.png",
-    "Excalidraw/How does HashMap work.md",
-    "Excalidraw/Drawing 2022-05-08 20.48.29.excalidraw.md",
-    "README.md"
+    "images/favicon/butterfly/android-icon-36x36.png"
   ]
 }
