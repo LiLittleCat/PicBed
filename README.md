@@ -1,6 +1,6 @@
 # PicBed
 
-Used to store [my blog](https://lilittlecat.com/)'s pictures.
+Used to store some pictures.
 
 ## Backgrounds
 
